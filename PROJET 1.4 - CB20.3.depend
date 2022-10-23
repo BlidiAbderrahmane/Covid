@@ -1,0 +1,361 @@
+# depslib dependency file v1.0
+1619163626 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.4 - cb20.3\eltcrn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.h"
+
+1619163727 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.4 - cb20.3\eltprim.h
+	"ELTSDD.h"
+
+1619163758 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.4 - cb20.3\eltsdd.h
+	"ELTCRN.h"
+
+1619163703 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.4 - cb20.3\eltcrn.h
+
+1619167620 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.4 - cb20.3\lstgov.c
+	"LSTPRIM.h"
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619163904 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.4 - cb20.3\lstprim.h
+	"ELTPRIM.h"
+	"LSTSDD.h"
+
+1619163928 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.4 - cb20.3\lstsdd.h
+	"LSTGOV.h"
+
+1619163868 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.4 - cb20.3\lstgov.h
+	"ELTPRIM.h"
+
+1619167274 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.4 - cb20.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619539755 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.5 - cb20.3\eltcrn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.h"
+
+1619163727 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.5 - cb20.3\eltprim.h
+	"ELTSDD.h"
+
+1619163758 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.5 - cb20.3\eltsdd.h
+	"ELTCRN.h"
+
+1619163703 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.5 - cb20.3\eltcrn.h
+
+1619545740 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.5 - cb20.3\lstgov.c
+	"LSTPRIM.h"
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619163904 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.5 - cb20.3\lstprim.h
+	"ELTPRIM.h"
+	"LSTSDD.h"
+
+1619163928 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.5 - cb20.3\lstsdd.h
+	"LSTGOV.h"
+
+1619163868 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.5 - cb20.3\lstgov.h
+	"ELTPRIM.h"
+
+1619542148 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.5 - cb20.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619539755 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.6 - cb20.3\eltcrn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.h"
+
+1619163727 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.6 - cb20.3\eltprim.h
+	"ELTSDD.h"
+
+1619163758 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.6 - cb20.3\eltsdd.h
+	"ELTCRN.h"
+
+1619163703 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.6 - cb20.3\eltcrn.h
+
+1619632283 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.6 - cb20.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619627599 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.6 - cb20.3\lstprim.h
+	"ELTPRIM.h"
+	"LSTSDD.h"
+
+1619163928 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.6 - cb20.3\lstsdd.h
+	"LSTGOV.h"
+
+1619163868 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.6 - cb20.3\lstgov.h
+	"ELTPRIM.h"
+
+1619647168 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.6 - cb20.3\lstgov.c
+	"LSTPRIM.h"
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619539755 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.7 - cb20.3\eltcrn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.h"
+
+1619163727 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.7 - cb20.3\eltprim.h
+	"ELTSDD.h"
+
+1619163758 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.7 - cb20.3\eltsdd.h
+	"ELTCRN.h"
+
+1619163703 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.7 - cb20.3\eltcrn.h
+
+1619733492 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.7 - cb20.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619718468 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.7 - cb20.3\lstprim.h
+	"ELTPRIM.h"
+	"LSTSDD.h"
+
+1619163928 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.7 - cb20.3\lstsdd.h
+	"LSTGOV.h"
+
+1619163868 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.7 - cb20.3\lstgov.h
+	"ELTPRIM.h"
+
+1619743318 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.7 - cb20.3\lstgov.c
+	"LSTPRIM.h"
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619539755 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.8 - cb20.3\eltcrn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.h"
+
+1619163727 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.8 - cb20.3\eltprim.h
+	"ELTSDD.h"
+
+1619163758 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.8 - cb20.3\eltsdd.h
+	"ELTCRN.h"
+
+1619163703 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.8 - cb20.3\eltcrn.h
+
+1619750054 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.8 - cb20.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619718468 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.8 - cb20.3\lstprim.h
+	"ELTPRIM.h"
+	"LSTSDD.h"
+
+1619163928 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.8 - cb20.3\lstsdd.h
+	"LSTGOV.h"
+
+1619163868 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.8 - cb20.3\lstgov.h
+	"ELTPRIM.h"
+
+1619749556 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.8 - cb20.3\lstgov.c
+	"LSTPRIM.h"
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619539755 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.9 - cb20.3\eltcrn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.h"
+
+1619163727 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.9 - cb20.3\eltprim.h
+	"ELTSDD.h"
+
+1619163758 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.9 - cb20.3\eltsdd.h
+	"ELTCRN.h"
+
+1619163703 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.9 - cb20.3\eltcrn.h
+
+1619841163 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.9 - cb20.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619718468 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.9 - cb20.3\lstprim.h
+	"ELTPRIM.h"
+	"LSTSDD.h"
+
+1619163928 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.9 - cb20.3\lstsdd.h
+	"LSTGOV.h"
+
+1619163868 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.9 - cb20.3\lstgov.h
+	"ELTPRIM.h"
+
+1619841532 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 1.9 - cb20.3\lstgov.c
+	"LSTPRIM.h"
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619539755 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.0 - cb20.3\eltcrn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.h"
+
+1619163727 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.0 - cb20.3\eltprim.h
+	"ELTSDD.h"
+
+1619163758 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.0 - cb20.3\eltsdd.h
+	"ELTCRN.h"
+
+1619163703 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.0 - cb20.3\eltcrn.h
+
+1619919597 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.0 - cb20.3\lstgov.c
+	"LSTPRIM.h"
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619718468 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.0 - cb20.3\lstprim.h
+	"ELTPRIM.h"
+	"LSTSDD.h"
+
+1619163928 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.0 - cb20.3\lstsdd.h
+	"LSTGOV.h"
+
+1619163868 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.0 - cb20.3\lstgov.h
+	"ELTPRIM.h"
+
+1619919158 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.0 - cb20.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619539755 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.1 - cb20.3\eltcrn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.h"
+
+1619163727 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.1 - cb20.3\eltprim.h
+	"ELTSDD.h"
+
+1619163758 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.1 - cb20.3\eltsdd.h
+	"ELTCRN.h"
+
+1619163703 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.1 - cb20.3\eltcrn.h
+
+1619924941 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.1 - cb20.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
+1619718468 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.1 - cb20.3\lstprim.h
+	"ELTPRIM.h"
+	"LSTSDD.h"
+
+1619163928 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.1 - cb20.3\lstsdd.h
+	"LSTGOV.h"
+
+1619163868 c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.1 - cb20.3\lstgov.h
+	"ELTPRIM.h"
+
+1619931891 source:c:\users\21624\desktop\educ\semestre 2\asd2\projet\projet 2.1 - cb20.3\lstgov.c
+	"LSTPRIM.h"
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619510954 source:d:\educ\s2\asd2\projet\eltcrn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<malloc.h>
+	"ELTPRIM.h"
+
+1619134926 d:\educ\s2\asd2\projet\eltprim.h
+	"ELTSDD.h"
+
+1619134958 d:\educ\s2\asd2\projet\eltsdd.h
+	"ELTCRN.h"
+
+1619134902 d:\educ\s2\asd2\projet\eltcrn.h
+
+1619903090 source:d:\educ\s2\asd2\projet\lstgov.c
+	"LSTPRIM.h"
+	<malloc.h>
+	<stdio.h>
+	<string.h>
+	<unistd.h>
+	<stdlib.h>
+
+1619689668 d:\educ\s2\asd2\projet\lstprim.h
+	"ELTPRIM.h"
+	"LSTSDD.h"
+
+1619135128 d:\educ\s2\asd2\projet\lstsdd.h
+	"LSTGOV.h"
+
+1619135068 d:\educ\s2\asd2\projet\lstgov.h
+	"ELTPRIM.h"
+
+1619896140 source:d:\educ\s2\asd2\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ELTPRIM.h"
+	"LSTPRIM.h"
+
